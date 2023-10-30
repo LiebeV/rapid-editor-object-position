@@ -1,9 +1,9 @@
 # cover-crt-rapid-editor
  rapid src img editor for css `object-positon`
 # 运行库
-程序调用python内置的`os`及`tkinter`库
+程序调用python(>= 3.10.5)内置的`os`及`tkinter(>= 8.6)`库
 
-需额外安装Pillow库
+需额外安装Pillow(>= 10.1.0)库
 
 `pip install Pillow`
 # 使用方法
